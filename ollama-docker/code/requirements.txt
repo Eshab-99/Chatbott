@@ -1,0 +1,12 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+langchain-core
+langchain-classic
+<<<<<<< HEAD
+chromadb
+=======
+chromadb
+ollama
+>>>>>>> 4db6f7a141ebe4f080b73cc858411cd1a184b3b1
